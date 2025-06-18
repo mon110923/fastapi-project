@@ -1,0 +1,24 @@
+{
+    "categories": [
+        {
+            "id": 2,
+            "name": "Laptop",
+            "description": "Danh m\u1ee5c m\u00e1y t\u00ednh x\u00e1ch tay",
+            "owner": "Admin"
+        }
+    ],
+    "products": [
+        {
+            "id": 2,
+            "name": "MacBook Pro",
+            "description": "Laptop cao c\u1ea5p c\u1ee7a Apple",
+            "price": 35000000.0,
+            "category": {
+                "id": 2,
+                "name": "Laptop",
+                "description": "Danh m\u1ee5c m\u00e1y t\u00ednh x\u00e1ch tay",
+                "owner": "Admin"
+            }
+        }
+    ]
+}
