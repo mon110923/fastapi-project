@@ -1,0 +1,25 @@
+{
+    "categories": [
+        {
+            "name": "\u0110i\u1ec7n Tho\u1ea1i Cao C\u1ea5p",
+            "description": "C\u00e1c lo\u1ea1i \u0111i\u1ec7n tho\u1ea1i cao c\u1ea5p",
+            "owner": "C\u1eeda h\u00e0ng M\u1edbi",
+            "id": 1
+        }
+    ],
+    "products": [
+        {
+            "name": "iPhone 12 Pro",
+            "description": "\u0110i\u1ec7n tho\u1ea1i Apple cao c\u1ea5p",
+            "price": 1200.0,
+            "category_id": 1,
+            "id": 1,
+            "category": {
+                "name": "\u0110i\u1ec7n Tho\u1ea1i Cao C\u1ea5p",
+                "description": "C\u00e1c lo\u1ea1i \u0111i\u1ec7n tho\u1ea1i cao c\u1ea5p",
+                "owner": "C\u1eeda h\u00e0ng M\u1edbi",
+                "id": 1
+            }
+        }
+    ]
+}
