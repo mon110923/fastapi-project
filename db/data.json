@@ -15,7 +15,7 @@
             "price": 35000000.0,
             "category": {
                 "id": 2,
-                "name": "Laptop",
+                "name": "Laptop 2",
                 "description": "Danh m\u1ee5c m\u00e1y t\u00ednh x\u00e1ch tay",
                 "owner": "Admin"
             }
